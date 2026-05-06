@@ -1,8 +1,3 @@
 # akabbott
 
-geog3540/akabbott - Abbott, Addie
-
-
-
-bruh
-
+This is a Repository for my Geovisualization portfolio
